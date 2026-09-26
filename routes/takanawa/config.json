@@ -1,0 +1,18 @@
+{
+  "title": "高輪ゲートウェイ〜品川 街歩き(試作)",
+  "credits_extra": [
+    "ルート: © OpenStreetMap contributors"
+  ],
+  "spot_details": {
+    "八ツ山橋": {
+      "desc": "テスト用の説明文です。\nconfig.json の spot_details を書き換えてください。",
+      "photo": "",
+      "credit": ""
+    },
+    "品川セントラルガーデン": {
+      "desc": "テスト用の説明文です。",
+      "photo": "",
+      "credit": ""
+    }
+  }
+}
